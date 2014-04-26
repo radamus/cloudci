@@ -14,5 +14,8 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/radamus/cloudci/issues"
+  },
+  "dependencies": {
+    "aws-sdk": "~2.0.0-rc.14"
   }
 }
