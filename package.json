@@ -1,0 +1,18 @@
+{
+  "name": "cloudci",
+  "version": "0.0.0",
+  "description": "Testing ci in the cloud",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/radamus/cloudci.git"
+  },
+  "author": "radamus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/radamus/cloudci/issues"
+  }
+}
